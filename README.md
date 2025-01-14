@@ -5,5 +5,5 @@
 - Vences Guevara Alexis
 
 # Tecnologias
-Spring Boot
-MySQL para la BD
+- Spring Boot
+- MySQL para la BD
